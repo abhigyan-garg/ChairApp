@@ -10,6 +10,6 @@ A delegate can be added to the speakers list by choosing a nation from the next 
 
 Motions can be added on the right side of the application. The dropdown can be used to choose the nation that proposed the motion and the motion description can be entered in the textbox. The total and speaking times can also be entered which will automatically setup the timer if the motion is passed.
 
-When a motion is passed, you click on the checkbox next to the motion to open the timer window. This timer will allow you to choose the delegate that is speaking and start their timer. When the total time has elapsed, the timer window will automatically closed.
+When a motion is passed, you click on the checkbox next to the motion to open the timer window. This timer will allow you to choose the delegate that is speaking and start their timer. When the total time has elapsed, the timer window will automatically close.
 
-The application automatically collects data on how long delegates have been speaking. This data can be found by clicking quorum at the top-left of the window and then clicking speaking times.
+The application collects data on how long delegates have been speaking. This data can be found by clicking quorum at the top-left of the window and then clicking speaking times.
