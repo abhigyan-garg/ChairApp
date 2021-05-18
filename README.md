@@ -2,6 +2,8 @@
 
 ChairApp is a desktop application that can be used to assist chairs during Model UN sessions. The UI displays all relevant information including quorum, primary and secondary speakers lists, and proposed motions. This information can then be displayed through a projector for all delegates to see.
 
+![Optional Text](../master/Screenshot.png)
+
 To setup the application for a Model UN session, open the application by double-clicking on the exe file in the final folder. Then click on setup at the top-left of the window, before clicking on setup delegates. Here you can configure which UN nations are part of your commitee by checking and unchecking countries. Once completed, you can close the setup window.
 
 When the session starts, you can click on quorum at the top-left of the window and then click on roll call. This will allow you to enter the roll call information into the program where it will be saved. The program will also automatically calculate quorum for your commitee. Note that the quorum type can be changed by going to tools and then settings.
